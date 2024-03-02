@@ -1,0 +1,9 @@
+2.3.24
+what needs to be done:
+-eerything
+
+-frontend... set up router, set up at least a couple pages... frontpage with random pics with high ratings today, user page, tag page (so basically user but with tag filter), add pic page, search filter page (i hate search-filters)
+-backend...
+-db... i really hate resetting db so make a bulletproof schema
+-wheres the pic storage gonna be? java server's local dir? yeah good idea. idk. make sure to exclude image folder so github isnt mad were uploading so many pics or smth. nah... its a server. it can keep its own pics. or you could uhhhhhh set up one of the web cloud storages if youre brave
+
