@@ -1,0 +1,8 @@
+12.3
+there's a billion vulnerabilities in the dependencies but unfortunately not even the newest verions can do anything about that. fix it if you're gonna take the app online (lol)
+
+ok i still don't know what to do with the db. what's in the db. pls decide
+ahsually we did think of it a little bit. worst case sceanrio we can always redo it. (oh i kinda forgot im stopping school but ill try my best to help. im not a butthole)
+
+you have to make the db yourself, but the rest will be uh, uhh, set up automagically somehow. oh right! it gets created FROM the java code. repository service shit. that's the Jakarta shit.
+
